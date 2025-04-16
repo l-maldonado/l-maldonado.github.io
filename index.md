@@ -36,36 +36,31 @@ Sentiment classification and analysis of 10M #COVID 19 Tweets, using lexicon-bas
 ## Experience  
 
 ### **Data Science Private tutor**  
-*Self Employed* — New York, NY  
-2023-2024  
+*Self Employed* — New York, NY,  2023-2024  
 
 - Instructed and mentored graduate students, helping them master key concepts in data analysis, machine learning, statistical modeling, and data visualization. 
 - Assist with coursework, guidance and tailored support for research or thesis work. 
 
 ### **Data Infrastructure Engineer**  
-*Supervigilancia* — Remote, Bogota, Colombia  
-2021 - 2022  
+*Supervigilancia* — Remote, Bogota, Colombia,  2021 - 2022  
 
 - Designed the data processes and cloud dimensioning required to implant the analytics office in the public entity
 - Developed analytic tools to identify 300 unregistered companies, irregular reporting and overspending in the public contracts of security services, building 8 sector databases and presenting them in 10 dashboards and self-serve analytics tools to inform public policy
 - Researched the human resource quality, economic conditions, training, professionalization and spatial-temporal correlation of 360.000 human assets with the reported crime incidence in each of 1,122 separate municipalities
 
 ### **Data Science Teaching Assistant / Curriculum Development**  
-*Correlation One* — New York, NY  
-2021 - 2022  
+*Correlation One* — New York, NY, 2021 - 2022  
 
 - Counseled 60 students in 16 team projects and achieved 100% project delivery to the public and private sponsoring entities during two DS4A program cohorts; from a total of 1800 students each
 - Prepared new material for the DS4A Empowerment program, focused in developing technical competence and soft skills related with data science, data analytics and data engineering 
 
 ### **Project Manager - Business Intelligence Analytics**  
-*CIAID* — Remote, Bogota, Colombia    
-2021  
+*CIAID* — Remote, Bogota, Colombia, 2021  
 
 - Led the project of process redesigning, developing the change management strategy for re-training 30 employees in finding and fixing bottlenecks in the patents and trademarks legal processes of Clarke Modet Co. 
 
 ### **Data Science Apprenticeship**  
-*Place to Pay (Evertec LTD)* — Remote, Medellín, Colombia  
-2020  
+*Place to Pay (Evertec LTD)* — Remote, Medellín, Colombia, 2020  
 
 - Led the team in developing a solution for automating an Exploratory Data Analysis and proof of concept of a custom made Recommender System for a payments processing platform.
 - Managed documentation, UX design, feature engineering and statistical analysis. 
@@ -98,7 +93,8 @@ Interdisciplinary program focusing on integration of mechanical systems with ele
 
 ---
 
-## Skills
+## Skills  
+
 | **Domain of Knowledge**       | **Competencies**                       | **Tools**                                    | **Techniques**                                                        |
 |-------------------------------|----------------------------------------|----------------------------------------------|-----------------------------------------------------------------------|
 | **Programming & Development** | Coding, OOP                            | Python, Java, C++                            | Debugging, Code Optimization                                          |
