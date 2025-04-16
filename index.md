@@ -1,15 +1,10 @@
+[Email](mailto:lg.maldonado@outlook.com) | [LinkedIn](https://www.linkedin.com/in/lg-maldonado) | [GitHub](https://github.com/l-maldonado)
+
 ---
 title: Portfolio
 ---
 
-# Luis Maldonado
-
-[Email](mailto:lg.maldonado@outlook.com) | [LinkedIn](https://www.linkedin.com/in/lg-maldonado) | [GitHub](https://github.com/l-maldonado)
-
----
-
-
-## Projects  
+# Projects  
 
 ### **Suicide Prevention Study Methodology**  
 <a href="https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Study"><img src="https://www.datascienceportfol.io/static/profile_pics/pr2_50B6982A186BAB7C4216.png" alt="Suicide Prevention Study Methodology" width="400" height="130"></img></a>  
