@@ -7,7 +7,7 @@ title: Skills
 Mechatronics engineer with 4+ years of experience in data-driven business intelligence projects (data analysis, data engineering and data science). 
 With a PMI-CAPM certification and specializes in data governance and data engineering for public sector entities
 
-[Email](mailto:lg.maldonado@outlook.com) | [LinkedIn](https://www.linkedin.com/in/lg-maldonado) | [GitHub](https://github.com/l-maldonado)
+[Email](mailto:lg.maldonado@outlook.com) | [LinkedIn](https://www.linkedin.com/in/lg-maldonado) | [GitHub](https://github.com/l-maldonado) | [Website](https://luisgmaldonado.wordpress.com)
 
 ---
 
