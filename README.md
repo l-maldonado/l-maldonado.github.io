@@ -5,7 +5,12 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# GitHub Page
+
+This page was created with the GitHub Pages Tutorial. It is available at:  
+[l-maldonado.github.io/info](https://l-maldonado.github.io/info)
+
+Here is the complete tutorial, jsut in case:
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
