@@ -31,6 +31,7 @@ Feasibility study for a Suicide Prevention Study using machine learning, neural 
 
 ### **State of human resources and informality in the Surveillance and Private Security Economic Sector, 2022**
 *[Human Resources Quality and Development Dashboard](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7348/tablero-de-recurso-humano/)*
+
 *[Public repository](https://github.com/l-maldonado/Observatorio_SVSP)*
 
 Study of a Private dataset with the aim of characterize the quality (education, financial stability, geographical location) of the human capital in the security sector. The overall goal was to identify insights that affect negatively the sector bringing fragility to the services offered and to the human assets. In the process we correlated the crime incidence with the availability of security resources in the territory.
