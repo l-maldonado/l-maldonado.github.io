@@ -36,8 +36,8 @@ Study of a Private dataset with the aim of characterize the quality (education, 
 
 
 
-### **Pre-feasibility study on data availability and maturity for Observatory of Surveillance and Private Security, 2021**
-*[https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Study](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7341/estudios-e-investigaciones/)*
+### **Data Quality and organizational process suitability for an Analytics Office implementation, 2021**
+*[Pre-feasibility study on data availability and maturity for Observatory of Surveillance and Private Security](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7341/estudios-e-investigaciones/)*
 
 Study of the organizational information assets produced during normal operations and in projects and initiatives that may be available for an in-depth study of the security sector in the country. 
 
@@ -52,7 +52,7 @@ Study of the impact of the recent oil price changes in the "Gig economy" being i
 
 
 
-### **SanaMente, Mental health website. **
+### **SanaMente, Mental health website.**
 *Web development using Express, Angular NodeJS frameworks, 2021.*
 
 A website for getting mental health first-aid, helping to connect indivicuals with service providers and emergency services related with mental health situations.
