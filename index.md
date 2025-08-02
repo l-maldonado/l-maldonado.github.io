@@ -29,6 +29,15 @@ Sentiment classification and analysis of 10M #COVID 19 Tweets, using lexicon-bas
 Feasibility study for a Suicide Prevention Study using machine learning, neural networks, and synthetic datasets: Identifying key risk factors, develop preventive strategies and estimate a suicide risk score within one year after discharge among mental health patients. Sole researcher.
 
 
+### **The most complicated way of choosing food for your cat**  
+
+<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://github.com/l-maldonado/l-maldonado.github.io/blob/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a>  <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://github.com/l-maldonado/l-maldonado.github.io/blob/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
+
+[https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Stud](https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3)
+
+This is a small project that aims to help choosing from 1000+ brands, products, flavors, styles. I collected the data in a spreadsheet, made some cleaning, formatting, some data integration with external sources, data engineering and finally, presented the data in a fast dashboard report to navigate that complexity, put some products in perspective and use this dashboard to support executive decision making.
+
+
 ### **State of human resources and informality in the Surveillance and Private Security Economic Sector, 2022**
 *[Human Resources Quality and Development Dashboard](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7348/tablero-de-recurso-humano/)*
 
