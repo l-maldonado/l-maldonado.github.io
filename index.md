@@ -31,11 +31,7 @@ Feasibility study for a Suicide Prevention Study using machine learning, neural 
 
 ### **The most complicated way of choosing food for your cat**  
 
-<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a> 
-
-<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-02%2015-57-01.png" width="400" height="130"></img></a> 
-
-<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
+<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a> <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-02%2015-57-01.png" width="400" height="130"></img></a> <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
     
 [https://lookerstudio.google.com/reporting](https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3)
 
