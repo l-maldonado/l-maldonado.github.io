@@ -31,11 +31,15 @@ Feasibility study for a Suicide Prevention Study using machine learning, neural 
 
 ### **The most complicated way of choosing food for your cat**  
 
-<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://github.com/l-maldonado/l-maldonado.github.io/blob/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a>  <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://github.com/l-maldonado/l-maldonado.github.io/blob/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
+<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a> 
 
-[https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Stud](https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3)
+<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-02%2015-57-01.png" width="400" height="130"></img></a> 
 
-This is a small project that aims to help choosing from 1000+ brands, products, flavors, styles. I collected the data in a spreadsheet, made some cleaning, formatting, some data integration with external sources, data engineering and finally, presented the data in a fast dashboard report to navigate that complexity, put some products in perspective and use this dashboard to support executive decision making.
+<a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
+    
+[https://lookerstudio.google.com/reporting](https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3)
+
+You want to choose the best for your cat, don't you? This is a small project that aims to help choosing from 1000+ brands, products, flavors, styles. I collected the data in a spreadsheet, made some cleaning, formatting, some data integration with external sources, data engineering and finally, presented the data in a fast dashboard report to navigate that complexity, put some products in perspective and use this dashboard to support executive decision making.
 
 
 ### **State of human resources and informality in the Surveillance and Private Security Economic Sector, 2022**
