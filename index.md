@@ -15,19 +15,19 @@ With a PMI-CAPM certification and specializes in data governance and data engine
 # Projects  
 
 
-## **The most complicated way of choosing food for your cat**  
+## **Cat Food Analytics Tool**  
 
 <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-01%2022-55-19.png" width="400" height="130"></img></a> <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Dashboard_Screenshot_2025-08-02%2015-57-01.png" width="400" height="130"></img></a> <a href="https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3"><img src="https://raw.githubusercontent.com/l-maldonado/l-maldonado.github.io/refs/heads/main/CatInfo_Screenshot_2025-08-01%2017-45-40.png" width="175" height="130"></img></a>  
     
 [https://lookerstudio.google.com/reporting](https://lookerstudio.google.com/reporting/c58d546d-136a-4a09-a88b-74804dfadcf3)
 
-You want to choose the best for your cat, don't you? This is a small project that aims to help choosing from 1000+ brands, products, flavors, styles. I collected the data in a spreadsheet, made some cleaning, formatting, some data integration with external sources, data engineering and finally, presented the data in a fast dashboard report to navigate that complexity, put some products in perspective and use this dashboard to support executive decision making.
+You want to choose the best for your cat, don't you? This is a small project that aims to help choosing from 1300+ brands, products, flavors, styles. I collected the data in a spreadsheet, made some cleaning, formatting, some data integration with external sources, data engineering and finally, presented the data in a fast dashboard report to navigate that complexity, put some products in perspective and use this dashboard to support executive decision making in a comprehensive way. Sole developer
 
 ---
 
 ## **Suicide Prevention Study Methodology**  
 <a href="https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Study"><img src="https://www.datascienceportfol.io/static/profile_pics/pr2_50B6982A186BAB7C4216.png" alt="Suicide Prevention Study Methodology" width="400" height="130"></img></a>  
-Feasibility study for a Suicide Prevention Study using machine learning, neural networks, and synthetic datasets: Identifying key risk factors, develop preventive strategies and estimate a suicide risk score within one year after discharge among mental health patients. Sole researcher.
+This is a feasibility study for developing a Suicide Prevention Study using machine learning, neural networks, and synthetic datasets. The methodological proposal involves identifying key risk factors, developing preventive strategies and estimating a suicide risk score within one year after discharge among mental health patients. Sole researcher.
 
 
 ---
@@ -44,20 +44,23 @@ Study of the compensation for healthcare workers before and after the pandemic i
 
 ---
 
-## **State of human resources and informality in the Surveillance and Private Security Economic Sector, 2022**
-*[Human Resources Quality and Development Dashboard](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7348/tablero-de-recurso-humano/)*
+## **State of human resources and informality in the Surveillance and Private Security**
+*Correlational Study of Human Resources Quality in the Security Economic Sector and geo-correlation with Development indexes and crime incidence, 2022*
 
-*[Public repository](https://github.com/l-maldonado/Observatorio_SVSP)*
+[Public repository](https://github.com/l-maldonado/Observatorio_SVSP)
+[Public Dashboards](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7348/tablero-de-recurso-humano/)
 
-Study of a Private dataset with the aim of characterize the quality (education, financial stability, geographical location) of the human capital in the security sector. The overall goal was to identify insights that affect negatively the sector bringing fragility to the services offered and to the human assets. In the process we correlated the crime incidence with the availability of security resources in the territory.
+Study of operational private datasets with the aim of characterize the quality (education, financial stability, geographical location) of the human capital in the security sector. The overall goal was to identify insights that affect negatively the sector bringing fragility to the services offered and to the human assets. In the process we correlated the crime incidence with the availability of security resources in the territory. Observatory of Surveillance and Private Security, Colombian Defense Ministry.
 
 
 ---
 
-## **Data Quality and organizational process suitability for an Analytics Office implementation, 2021**
-*[Pre-feasibility study on data availability and maturity for Observatory of Surveillance and Private Security](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7341/estudios-e-investigaciones/)*
+## **Data Quality and organizational process suitability for an Analytics Office implementation**
+*Pre-feasibility study on data availability and maturity for Observatory of Surveillance and Private Security, 2021.*
 
-Study of the organizational information assets produced during normal operations and in projects and initiatives that may be available for an in-depth study of the security sector in the country. 
+[Research Study](https://pruebas-supervigilancia.nexura.com/observatorio/publicaciones/7341/estudios-e-investigaciones/)
+
+Study of the organizational information assets produced during normal operations and in projects and initiatives that may be available for an in-depth study of the security sector in the country. Observatory of Surveillance and Private Security, Colombian Defense Ministry.
 
 The aim of the project was to implement Data Governance metrics and procedures, Quality Assessment protocols, and establish key performance indicators and Key results , in order to establish the feasibility of a Data Warehouse initiative aimed to create a real-time analytis reporting system based on the available operations datasets.
 
@@ -67,7 +70,7 @@ The aim of the project was to implement Data Governance metrics and procedures, 
 ## **Is the Gig Economy making workers dry?**
 *Data pipeline and analytics tool comparing oil prices and labor, 2022.*
 
-Study of the impact of the recent oil price changes in the "Gig economy" being it the informal, "Uber-like" systems of transports, contracting and deliverying of services. In particular we focused on delivery drivers, bikers and walkers and focused on the general economics of those informal jobs. 
+Study of the impact of the recent oil price changes in the "Gig economy" being it the informal, "Uber-like" systems of transports, contracting and deliverying of services. In particular we focused on delivery drivers, bikers and walkers and focused on the general economics of those informal jobs. Student project.
 
 
 ---
@@ -75,15 +78,17 @@ Study of the impact of the recent oil price changes in the "Gig economy" being i
 ## **SanaMente, Mental health website.**
 *Web development using Express, Angular NodeJS frameworks, 2021.*
 
-A website for getting mental health first-aid, helping to connect indivicuals with service providers and emergency services related with mental health situations.
+A website for getting mental health first-aid, helping to connect indivicuals with service providers and emergency services related with mental health situations. Student project.
 
 
 ---
 
 
-## **Analysis of  transactions for Evertec-PlacetoPay using NLP, Collaborative filtering, PowerBI, 2020.**
+## **Analysis of a transactions in a Payments Processing System**
+*Data Science Project for the Correlation-One DS4A Program, 2020.*
+
 <a href="https://github.com/l-maldonado/team67-ptp"><img src="https://github.com/l-maldonado/team67-ptp/raw/main/static/images/Datafolio1.jpg" alt="Nurse Salaries" width="400" height="130"></img></a>  
-A Web-based solution for automating an Exploratory Data Analysis and proof of concept of a custom made Recommender System for a private payments processing platform. Used Collaborative filtering, Natural Language Processing, KNNs, MS PowerBI, built in Python, using Scikit-Learn, and Plotly libraries hosted in heroku and integrated with Amazon Web Services EC2, S3 and RDS 
+A Web-based solution for automating an Exploratory Data Analysis and proof of concept of a custom made Recommender System for a private payments processing platform. Methods employed included Collaborative filtering, Natural Language Processing (NLP), KNNs. Built in Python and MS-PowerBI, using Scikit-Learn, and Plotly libraries hosted in heroku and integrated with Amazon Web Services EC2, S3 and RDS. Aprenticeship, Evertec-PlacetoPay.
 
 
 ---
